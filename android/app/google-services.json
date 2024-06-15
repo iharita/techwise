@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069537002673",
+    "project_id": "techwise-e275c",
+    "storage_bucket": "techwise-e275c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069537002673:android:0ee8fa244b63f411e1ce90",
+        "android_client_info": {
+          "package_name": "com.techwise.Techwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069537002673-uckkbo2lcfcg8aosgqiseae4evg83ljg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKadAXl5ky-gNRlqd8xJLHNjxAhYjfCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069537002673-uckkbo2lcfcg8aosgqiseae4evg83ljg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
