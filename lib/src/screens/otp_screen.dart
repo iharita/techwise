@@ -27,7 +27,7 @@ class _OTPScreenState extends State<OTPScreen> {
     super.initState();
     loginUser(widget.number, context);
   }
-
+//
   @override
   Widget build(BuildContext context) {
     return Scaffold(
